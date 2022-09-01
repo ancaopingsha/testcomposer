@@ -1,6 +1,6 @@
 {
     "name": "chadsmile/testcomposer",
-    "type": "project", 
+    "type": "project",
     "keywords": ["Boolean","Array","String","Resource"],
     "homepage": "https://abc1.com",
     "license": "MIT",
@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pctco\\Types\\": "src"
+            "chadsmile\\testcomposer\\": "src"
         }
     },
     "minimum-stability": "dev"
