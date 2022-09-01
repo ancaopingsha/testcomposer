@@ -1,5 +1,5 @@
 <?php
-namespace chad\testcomposer;
+namespace chadsmile\testcomposer;
 /**
  * 数组
  */
