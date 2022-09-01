@@ -1,6 +1,6 @@
 {
     "name": "chadsmile/testcomposer",
-    "type": "project",
+    "type": "project", 
     "keywords": ["Boolean","Array","String","Resource"],
     "homepage": "https://abc1.com",
     "license": "MIT",
