@@ -5,6 +5,10 @@ namespace chadsmile\testcomposer;
  */
 class Arrays{
    public static function test($json){
-      return 'return data!';
+      $data = [
+        'asd' => 234234,
+        'cs' => $json,
+      ];
+       return $data;
    }
 }
